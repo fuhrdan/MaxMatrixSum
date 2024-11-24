@@ -1,0 +1,22 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore backup and temporary files
+*.swp
+*.bak
+*.tmp
+
+# Ignore IDE-specific files (Eclipse, IntelliJ IDEA, etc.)
+.idea/
+*.iml
+*.classpath
+*.project
+target/
+bin/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
